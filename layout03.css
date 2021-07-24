@@ -1,5 +1,5 @@
 .section-container {
-    width: 1140px;
+    /* width: 1140px; */
     margin-left: auto;
     margin-right: auto;
 }
@@ -9,5 +9,5 @@
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
     /* grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); */
     grid-template-rows: repeat(1, 1fr);
-    grid-auto-rows: 1fr;
+    /* grid-auto-rows: 1fr; */
 }   
